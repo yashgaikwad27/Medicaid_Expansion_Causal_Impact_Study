@@ -5,7 +5,7 @@ Difference-in-Differences (DiD) analysis estimating the causal effect of the 201
 Affordable Care Act Medicaid expansion on state-level uninsured rates across 50 states. 
 Data sourced from the County Health Rankings (CHR) Trends dataset. The analysis applies 
 a rigorous validation framework, including an event study, a placebo test, and robustness 
-heck to support the causal interpretation.
+check to support the causal interpretation.
 
 ## What I Did
 - Constructed a 50-state panel dataset from CHR Trends data, aggregating county-level 
